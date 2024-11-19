@@ -8,7 +8,7 @@
 ---
 
 ## 👨‍💻 **About Me**
-I am an AI/ML Engineer with hands-on experience in designing, developing, and deploying machine learning models and data-driven solutions. Proficient in Python, TensorFlow, and Power BI, I excel at creating impactful AI/ML models and leveraging data analysis to solve complex problems. With a strong problem-solving mindset and communication skills, I am committed to delivering innovative and effective solutions.  
+I am a passionate and aspiring AI/ML enthusiast with hands-on experience in building machine learning models and analyzing data-driven solutions through academic projects and internships. Proficient in Python, TensorFlow, and Power BI, I enjoy creating impactful AI/ML models and leveraging data analysis to solve challenging problems. With a strong willingness to learn, excellent problem-solving skills, and effective communication, I am eager to contribute to innovative and impactful projects in AI and machine learning. 
 
 ---
 
