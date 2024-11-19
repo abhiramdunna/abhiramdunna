@@ -1,4 +1,4 @@
-# Dunna Abhiram - AI/ML Engineer Portfolio 🌟
+# Dunna Abhiram - Portfolio 🌟
 
 📍 **Location:** Visakhapatnam, India  
 📧 **Email:** [abhiramdunna18@gmail.com](mailto:abhiramdunna18@gmail.com)  
